@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.notfound {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(241, 172, 172);
+  align-items: center;
+  text-align: center;
+  line-height: 200px;
+  padding: 150px;
+}
+.notfound-btn {
+  list-style: none;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0;
+  background-color: rgb(89, 89, 245);
+  color: white;
+  border-radius: 6px;
+  transition: all 0.17s ease-in;
+}
+.notfound-btn:hover {
+  background-color: rgb(64, 64, 243);
+  color: white;
+}
