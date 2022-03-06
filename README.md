@@ -9,4 +9,4 @@ To run this application type in your terminal -->
 
 # Step5 : `npm run start:dev`
 
-
+Happy Hacking :), your app will run in the localhost:3000 by default and the server will be runnig in http://localhost:3001/
